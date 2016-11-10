@@ -2,157 +2,157 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/incremental-runtime-classes/direct_web/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/internal_impl-24.2.1_a945219d5940dca0ff725cdedc109da8d760082f.jar" />
+        sha1="4b4a6c6af5c1c8ef2570a91824416a766ac240f3">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/instant-run_23801587c5ee7e7049acdda4b1b939c21ffda385/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/com.android.support-support-core-utils-24.2.1_7dcbfaa443f0f0a87fcac48d69267d14740c480f.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/internal_impl-24.2.1_c2bacdea30eb300bd1e0af1c429b91efbe64dd5c.jar" />
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/internal_impl-24.2.1_c2bacdea30eb300bd1e0af1c429b91efbe64dd5c/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/com.android.support-appcompat-v7-24.2.1_1ee4d0a21b3959faf5dedfea9918638eba8510f9.jar" />
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_1ee4d0a21b3959faf5dedfea9918638eba8510f9/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/com.android.support-support-compat-24.2.1_9dbf1f1007172bd81ce28f0a34ebfad2f0fbcb50.jar" />
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/internal_impl-24.2.1_a945219d5940dca0ff725cdedc109da8d760082f/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/internal_impl-24.2.1_6c0ba3df564d3f1995bcd444abb690a718db1946.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/com.android.support-support-media-compat-24.2.1_f945288575473e8d1c87b0a156d9e7089c3aa27d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/com.android.support-support-fragment-24.2.1_b77f10dbbb3ad1c610982ad41ad75713c97d31a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/com.android.support-support-v4-24.2.1_25677b43e55d8f771f76101fb27002a5416be1c1.jar" />
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-v4-24.2.1_25677b43e55d8f771f76101fb27002a5416be1c1/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/com.android.support-support-core-ui-24.2.1_1dcbd3029a56de583a8c6c24ef50466cae68203f.jar" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b77f10dbbb3ad1c610982ad41ad75713c97d31a0/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/internal_impl-24.2.1_6c0ba3df564d3f1995bcd444abb690a718db1946/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/com.android.support-animated-vector-drawable-24.2.1_16dce38833b34e7c3aeff7297d2fa2a1445348e5.jar" />
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_16dce38833b34e7c3aeff7297d2fa2a1445348e5/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/incremental-classes/direct_web/debug/instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="15432929a3cda08c01b39f62e2e12dff020c8ac9">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/instant-run-bootstrap_81b5da187b9d59f10fd7607164b362a8f67b0329.jar" />
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_f945288575473e8d1c87b0a156d9e7089c3aa27d/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/internal_impl-24.2.1_42aeecf99eaa89c765e141b6fc07ad8aa1bfbdea.jar" />
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/internal_impl-24.2.1_42aeecf99eaa89c765e141b6fc07ad8aa1bfbdea/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/will/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/support-annotations-24.2.1_05cc3055f0279d18ef04f7a14ce86b70548059c1.jar" />
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/support-annotations-24.2.1_05cc3055f0279d18ef04f7a14ce86b70548059c1/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/internal_impl-24.2.1_bb68071743cf2b8070cd77566479287e70241fcb.jar" />
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/internal_impl-24.2.1_bb68071743cf2b8070cd77566479287e70241fcb/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/incremental-runtime-classes/direct_web/debug/instant-run.jar"
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="1a4736a2d431280edf38449452d9f441eeed8162">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/instant-run_23801587c5ee7e7049acdda4b1b939c21ffda385.jar" />
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-compat-24.2.1_9dbf1f1007172bd81ce28f0a34ebfad2f0fbcb50/classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/pre-dexed/direct_web/debug/com.android.support-support-vector-drawable-24.2.1_f5630c9a3765055aeeca9300d3dcb270714aab1e.jar" />
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_f5630c9a3765055aeeca9300d3dcb270714aab1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_1dcbd3029a56de583a8c6c24ef50466cae68203f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/incremental-classes/direct_web/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="bf6f6860ab4333ba5637ef57e7bd8599272ec337">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/instant-run-bootstrap_81b5da187b9d59f10fd7607164b362a8f67b0329/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_7dcbfaa443f0f0a87fcac48d69267d14740c480f/classes.dex" />
     </item>
 
 </items>
