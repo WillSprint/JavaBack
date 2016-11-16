@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="4b4a6c6af5c1c8ef2570a91824416a766ac240f3">
+        sha1="40eef039c628fd09da9a301e59eb1c3cdb04c598">
         <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/instant-run_23801587c5ee7e7049acdda4b1b939c21ffda385/classes.dex" />
     </item>
     <item
@@ -39,21 +39,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-v4-24.2.1_25677b43e55d8f771f76101fb27002a5416be1c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
         <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_b77f10dbbb3ad1c610982ad41ad75713c97d31a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/will/Custom_Java/Java/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/com.android.support-support-v4-24.2.1_25677b43e55d8f771f76101fb27002a5416be1c1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -142,7 +142,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="bf6f6860ab4333ba5637ef57e7bd8599272ec337">
+        sha1="0296e508ff5a0aa70b6594f3633643a3de7ebc5f">
         <dex dex="/Users/will/Custom_Java/Java/app/build/intermediates/transforms/dex/direct_web/debug/folders/1000/10/instant-run-bootstrap_81b5da187b9d59f10fd7607164b362a8f67b0329/classes.dex" />
     </item>
     <item
